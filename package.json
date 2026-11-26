@@ -1,0 +1,12 @@
+{
+  "name": "taller-pruebas-jest",
+  "version": "1.0.0",
+  "description": "Taller final - Calidad del Desarrollo de Software",
+  "main": "src/calculadoraVentas.js",
+  "scripts": {
+  "test": "jest"
+},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
